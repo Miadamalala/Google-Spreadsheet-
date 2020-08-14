@@ -2,7 +2,7 @@
 ## A LIRE 
 # Principe du projet  
 
-Ce mini-projet(solo) consiste a sauvegarder les données scrappé dans des fichiers JSON, CSV et Spreadsheetm les donnees de notre ancien projet le "scrappeur fou"
+Ce mini-projet(solo) consiste a sauvegarder les données scrappé dans des fichiers JSON, CSV et Spreadsheet,les donnees de notre ancien projet le "scrappeur fou".
 
 
 ## Lancement du programme 
